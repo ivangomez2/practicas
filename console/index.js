@@ -4,4 +4,5 @@ const datos = {
    peso: 84,
 };
 
-console.log (datos) //fixie el c.log
+console.log ("otro cambio") //fixie el c.log
+
