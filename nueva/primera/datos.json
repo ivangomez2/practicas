@@ -1,0 +1,13 @@
+[{
+    "nombre": "ivan",
+    "apellido": "gomez",
+    "gustos": [23,4141,222]
+},{
+    "nombre": "florencia",
+    "apellido": "barroso ",
+    "gustos": [1,2,44]
+},{
+    "nombre": "mishi",
+    "apellido": "fuuu ",
+    "gustos": [5,33,6666]
+}]

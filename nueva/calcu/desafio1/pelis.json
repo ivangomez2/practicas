@@ -1,0 +1,40 @@
+[{"title": "el padrino",
+    "rating": 10,
+    "tags": ["acción", "drama"],
+    "antiguedad":"antigua"
+},
+
+{"title": "shrek",
+    "rating": 10,
+    "tags": ["infantil", "comedia"],
+    "antiguedad": "nueva"
+},
+
+{"title": "scarface",
+    "rating": 10,
+    "tags": ["acción", "drama"],
+    "antiguedad": "antigua"
+},
+{"title": "it",
+    "rating": 8,
+    "tags": ["terror", "suspenso"],
+    "antiguedad": "antigua"
+},
+
+{"title": "el exorcista",
+    "rating": 6,
+    "tags": ["terror", "suspenso"],
+    "antiguedad": "antigua"
+},
+
+{"title": "transformers",
+    "rating": 7,
+    "tags": ["acción", "comedia"],
+    "antiguedad": "nueva"
+},
+
+{"title": "la vida es bella",
+    "rating": 10,
+    "tags": ["drama", "suspenso"],
+    "antiguedad": "antigua"
+}]
